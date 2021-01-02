@@ -1,0 +1,9 @@
+.Upload-input {
+  display: none;
+}
+
+.Upload-button {
+  width: 8rem;
+  height: 3.5rem;
+  font-size: large !important;
+}
